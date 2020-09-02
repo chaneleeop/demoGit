@@ -1,1 +1,7 @@
-# demoGit
+# DemoGit
+
+~~AABCD~~
+
+**abcd**
+
+`abcd`
